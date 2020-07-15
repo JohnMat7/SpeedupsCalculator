@@ -1,0 +1,2 @@
+# SpeedupsCalculator
+speed ups caclulator
